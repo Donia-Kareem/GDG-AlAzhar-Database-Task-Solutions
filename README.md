@@ -1,10 +1,5 @@
 # 📚 GDG AlAzhar - Database Task Solutions 
 
-> 🗂️ Comprehensive SQL solutions for the **GDG AlAzhar Database Task ** — including queries, functions, procedures, views, triggers, and more.  
-> Helping students and developers strengthen their SQL skills with clear and practical examples.
-
----
-
 ## 🧠 Topics Covered
 
 - ✅ **Data Retrieval Queries** (`SELECT`, `WHERE`, `GROUP BY`, `HAVING`)
