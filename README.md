@@ -1,9 +1,5 @@
 # 📚 GDG AlAzhar - Database Task Solutions 
 
-<p align="center">
-  <img src="gdg-logo.png" alt="GDG AlAzhar Logo" width="200"/>
-</p>
-
 > 🗂️ Comprehensive SQL solutions for the **GDG AlAzhar Database Task ** — including queries, functions, procedures, views, triggers, and more.  
 > Helping students and developers strengthen their SQL skills with clear and practical examples.
 
@@ -21,7 +17,5 @@
 - ✅ **User Privileges & Logins**
 - ✅ **Testing Referential Integrity**
 
----
 
-## 📂 Repository Structure
 
